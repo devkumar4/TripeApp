@@ -64,11 +64,11 @@ https://user-images.githubusercontent.com/100475573/233858477-deb581e1-8e07-42db
 ***This app also includes an admin panel, allowing you to add your data. You can find the admin panel repository on this account.***
 
 
-#Search🔍
+# Search🔍
 `
 Tripe_Admin_Panel`
 
-##On this account
+## On this account
 
 `
 ✨Enjoy you app signing off 🫡`
