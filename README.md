@@ -1,20 +1,20 @@
 # Tripe
 
-**_Tripe_ is a Food Delivery App**
+**_Tripe_ is a Food Delivery App🚚**
 
- # Demo
+ # Demo🪧
  
- https://user-images.githubusercontent.com/100475573/233858120-d82c7e28-b6a6-493a-9c81-8e63879bbaf5.mp4
+ https://user-images.githubusercontent.com/100475573/233858120-d82c7e28-b6a6-493a-9c81-8e63879bbaf5.gif
 
 ***Login & Sign Up Screen***
 
-![sigin](https://user-images.githubusercontent.com/100475573/233858360-e35b9ab1-4cf9-4e4b-ba1b-628ed304bd5a.jpg)
+![sigin-small](https://user-images.githubusercontent.com/100475573/233858360-e35b9ab1-4cf9-4e4b-ba1b-628ed304bd5a.jpg)
 ![signup](https://user-images.githubusercontent.com/100475573/233858362-ce5a08c8-f2d5-49b6-a393-fbba5956f4e8.jpg)
 
  ***WelCome Screen***
  
  
- ![WELCOM](https://user-images.githubusercontent.com/100475573/233858427-f8ea3d35-60b5-4911-a9ea-e29d21125b22.jpg)
+ ![github-small](https://user-images.githubusercontent.com/100475573/233858427-f8ea3d35-60b5-4911-a9ea-e29d21125b22.jpg)
  
   ***Home Screen***
   
@@ -43,12 +43,12 @@ https://user-images.githubusercontent.com/100475573/233858477-deb581e1-8e07-42db
  
  ## And Then Open this project on `Vs Code` and run this commands on terminal
  
- ### Install all dependencies
+ ### Install all dependencies🫥
 
  ` npm install --legacy-peer-deps
  `
  
- ### Add Api key
+ ### Add Api key🔑
  
  ` And then Add your own Firebase Api Key ` On ***firebaseConfig.js***
  
@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/100475573/233858477-deb581e1-8e07-42db
  
 # Congrarulations 🎉 You created !!! 
  
-# Waittt !!!
+# Waittt 😮!!!
 
 ***How you add own data your***
 ***This app also includes an admin panel, allowing you to add your data. You can find the admin panel repository on this account.***
@@ -71,7 +71,7 @@ Tripe_Admin_Panel`
 ##On this account
 
 `
-Enjoy you app signing off 🫡`
+✨Enjoy you app signing off 🫡`
  
 
 
